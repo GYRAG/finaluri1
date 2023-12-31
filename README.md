@@ -8,7 +8,7 @@ npm install mongodb
 
 
  '''
-npm i npm install next-auth@5.0.0-beta.3y
+npm i npm install next-auth@5.0.0-beta.3
 
 
 run the development server:
